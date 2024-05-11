@@ -11,7 +11,9 @@ class ChatScreen extends StatelessWidget {
       ),
       body: Column(
         children: [
-          Text('Hello'),
+          Center(
+            child: Icon(Icons.add),
+          ),
           SizedBox(
             height: 20,
           ),
