@@ -11,16 +11,12 @@ class ChatScreen extends StatelessWidget {
       ),
       body: Column(
         children: [
-<<<<<<< HEAD
           Center(
             child: Icon(Icons.add),
           ),
           SizedBox(
             height: 20,
           ),
-=======
-          Text('Hello'),
->>>>>>> main
         ],
       ),
     );
